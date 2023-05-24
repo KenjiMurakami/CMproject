@@ -11,6 +11,6 @@
     <string name="lblCelular">Celular:</string>
     <string name="lblEmail">E-mail:</string>
 
-    <string name="btnSauldar">Saludar</string>
+    <string name="btnSauldar">Saludar a la persona</string>
 
 </resources>
