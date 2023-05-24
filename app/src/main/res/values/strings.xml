@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aasd</string>
+
+    <string name="txtNombre">Ingrese su nombre :</string>
+    <string name="txtEdad">Ingrese su edad :</string>
+    <string name="txtCelular">Ingrese su celular :</string>
+    <string name="txtEmail">Ingrese su E-mail :</string>
+
+    <string name="lblNombre">Nombre:</string>
+    <string name="lblEdad">Edad:</string>
+    <string name="lblCelular">Celular:</string>
+    <string name="lblEmail">E-mail:</string>
+
+    <string name="btnSauldar">Saludar</string>
+
+</resources>
